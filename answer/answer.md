@@ -8,6 +8,24 @@ so - swap out - is the amount fo data in KB per second that the system is writin
 bi - blocks in - is the blocks recieved from the block device (i.e. I/O reads) and represents data coming into the system from the disk in KB per second.
 bo - blocks out - is the blocks sent to the block device (i.e. I/O reads) and represents being written out of the system to the disk in KB per second.
 
+
+to-do2-1:
+| P#    |      SA      |    EA  |
+-----------------------------------
+| P1    |     600400   |   600757 |
+| P2    |     601200   |   601410 | 
+| P3    |     602000   |  602468 | 
+| P4    |     ----     |  Not Allocated|
+
+to-do2-2:
+| P#    |      SA      |    EA  |
+-----------------------------------
+| P1    |    600400    |  600757  |
+| P2    |    601200    |  603610  | 
+| P3    |    602000    |  602468  | 
+| P4    |     ----     |  601691  |
+
+
 to-do3-1
 physical RAM = 16TB = 16 * 2 ^ 40 = 2 ^ 44 
 page size = 4KB = 4 * 2 ^ 10 = 2 ^ 12
