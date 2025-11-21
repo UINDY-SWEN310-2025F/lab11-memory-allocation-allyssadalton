@@ -1,0 +1,11 @@
+Script started on 2025-11-21 14:03:05+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="101" LINES="27"]
+[?2004h]0;root@7eff2826b52e: /workspaces/lab11-memory-allocation-allyssadalton/answerroot@7eff2826b52e:/workspaces/lab11-memory-allocation-allyssadalton/answer# exit
+[?2004lexit
+
+Script done on 2025-11-21 14:03:26+00:00 [COMMAND_EXIT_CODE="0"]
+   0    0    34     6  791 1035  1  0 99  0  0
+ 0  0      0 478160 360972 2205576    0    0     0    22  647  917  0  0 99  0  0
+ 0  0      0 477908 360980 2205576    0    0     0    16 1315 1932  1  1 99  0  0
+ 0  0      0 477708 360980 2205576    0    0     0     0  713 1019  0  0 99  0  0
+ 0  0      0 478008 360980 2205560    0    0     0     0  626  887  0  0 99  0  0
+ 0  0      0 475188 360988 2205560    0    0     0     6  685  910  0  0 99  0  0
